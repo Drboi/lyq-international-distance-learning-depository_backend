@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/api-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-api/lyq-idld-ams-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-api/lyq-idld-ams-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-api/lyq-idld-cart-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-api/lyq-idld-cart-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-api/lyq-idld-cms-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-api/lyq-idld-cms-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-api/lyq-idld-dictionary-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-api/lyq-idld-dictionary-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-api/lyq-idld-oms-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-api/lyq-idld-oms-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-api/lyq-idld-pay.api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-api/lyq-idld-pay.api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-api/lyq-idld-pms-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-api/lyq-idld-pms-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-api/lyq-idld-ums-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-api/lyq-idld-ums-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-applicationWeb/lyq-idld-manager-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-applicationWeb/lyq-idld-manager-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-applicationWeb/lyq-idld-portal-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-applicationWeb/lyq-idld-portal-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-applicationWeb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-applicationWeb/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-common/lyq-idld-common-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-common/lyq-idld-common-base/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-common/lyq-idld-common-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-common/lyq-idld-common-util/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-job/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-job/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-service/lyq-idld-cart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-service/lyq-idld-cart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-service/lyq-idld-cms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-service/lyq-idld-cms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-service/lyq-idld-dictionary/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-service/lyq-idld-dictionary/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-service/lyq-idld-oms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-service/lyq-idld-oms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-service/lyq-idld-pay/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-service/lyq-idld-pay/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-service/lyq-idld-pms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-service/lyq-idld-pms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-service/lyq-idld-sms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-service/lyq-idld-sms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-service/lyq-idld-ums/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-service/lyq-idld-ums/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lyq-idld-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

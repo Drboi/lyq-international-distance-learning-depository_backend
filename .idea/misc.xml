@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/lyq-idld-api/lyq-idld-ams-api/pom.xml" />
+        <option value="$PROJECT_DIR$/lyq-idld-api/lyq-idld-cart-api/pom.xml" />
+        <option value="$PROJECT_DIR$/lyq-idld-api/lyq-idld-cms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/lyq-idld-api/lyq-idld-dictionary-api/pom.xml" />
+        <option value="$PROJECT_DIR$/lyq-idld-api/lyq-idld-oms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/lyq-idld-api/lyq-idld-pay.api/pom.xml" />
+        <option value="$PROJECT_DIR$/lyq-idld-api/lyq-idld-pms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/lyq-idld-api/lyq-idld-ums-api/pom.xml" />
+        <option value="$PROJECT_DIR$/lyq-idld-api/pom.xml" />
+        <option value="$PROJECT_DIR$/lyq-idld-applicationWeb/pom.xml" />
+        <option value="$PROJECT_DIR$/lyq-idld-common/pom.xml" />
+        <option value="$PROJECT_DIR$/lyq-idld-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/lyq-idld-job/pom.xml" />
+        <option value="$PROJECT_DIR$/lyq-idld-service/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="corretto-1.8" project-jdk-type="JavaSDK" />
+</project>
